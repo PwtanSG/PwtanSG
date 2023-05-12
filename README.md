@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Tan Pang Wee</h1>
+<h3 align="center">A passionate full stack web developer from Singapore</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pwtansg&label=Profile%20views&color=0e75b6&style=flat" alt="pwtansg" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pang-wee-tan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pangweetan6023) 
